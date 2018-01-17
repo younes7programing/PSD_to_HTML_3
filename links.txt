@@ -1,0 +1,13 @@
+how to export images from photoshop  : 
+	export as 
+	generate image assets  : Generate --> images assets  
+	export svg
+
+detrmine size of elements
+    using rectangular marque tool
+    ctr+t 
+    rooler tool (detrmine smal hight)
+
+pour bien respecter les grids dans photohop
+
+	le site :https://www.ecommercebestseo.com/resources/gridinator/
